@@ -1,2 +1,2 @@
-# My-firdt-repo
+# My-first-repo
 Learning GitHub with DevOps
